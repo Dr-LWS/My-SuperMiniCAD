@@ -52,7 +52,7 @@ int initEngine() {
     glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
     std::cout << "===============================" << endl;
-    std::cout << "   Successfully Initialized£¡" << endl;
+    std::cout << "   Successfully InitializedÂ£Â¡" << endl;
     std::cout << "===============================" << endl << endl;
 
     return 0;
